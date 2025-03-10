@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("!@#$%$", "333");
         Log.d("!@#$%$", "444");
         Log.d("!@#$%$", "555");
+        Log.d("!@#$%$", "666");
     }
 }
